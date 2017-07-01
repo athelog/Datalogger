@@ -1,0 +1,5 @@
+N,Op,Id,Code,Weight,Status,ErrorCode,Date,Time,IP
+0,store_data,station0,Salsa02,0.78,Active,None,1969-12-31,18:34:43,192.168.10.105
+0,store_data,station0,Mayonesa01,0.78,Active,None,1969-12-31,18:40:27,192.168.10.105
+0,store_data,station0,Mayonesa01,0.82,Active,None,1969-12-31,18:40:58,192.168.10.105
+0,store_data,station0,IceTea11105,0.82,Active,None,1969-12-31,18:41:46,192.168.10.105

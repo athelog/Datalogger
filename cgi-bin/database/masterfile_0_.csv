@@ -1,0 +1,5 @@
+N,Op,Id,Code,Weight,Status,ErrorCode,Date,Time,IP
+default,default,default,default,default,default,default,default,default,default
+ntest3,store_data,station01,Bread02,0.5,Active,None,1969-12-31,18:19:00,192.168.10.105
+0,store_data,station0,Salsa01,0.75,Active,None,1969-12-31,18:19:31,192.168.10.105
+0,store_data,station0,Salsa01,0.78,Active,None,1969-12-31,18:33:49,192.168.10.105

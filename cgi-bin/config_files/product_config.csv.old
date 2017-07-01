@@ -1,0 +1,10 @@
+N,Product,Code,TargetWeight(Kg),MaxTolerance(%),MinTolerance(%)
+1,MayonesaGrande,Mayonesa02,0.150,10,10
+2,MayonesaPequeña,Mayonesa01,0.030,10,10
+3,LizanoGrande,Salsa012aaa,0.400,10,5
+4,LizanoPequeña,Salsa013aaa,0.250,10,5
+5,TeFrioLimon,Bebida01,0.125,5,7
+6,TeFrioMelocoton,Bebida02,0.130,10,5
+7,KetchupGnde,Salsa01,0.750,10,3
+8,KetchupMediana,Salsa010000,0.500,3,3
+9,asdasda,asdaasd,054554,2,2
